@@ -213,9 +213,7 @@ footer .container .row{
   #rodape{
     display: none;
   }
-  .img-fitas{
-    margin-top: 1%;
-  }
+  
 }
 @media screen and (max-width: 1000px){
   #navbarSupportedContent{

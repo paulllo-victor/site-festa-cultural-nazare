@@ -49,6 +49,9 @@ body{
     z-index: -1;
     transform: translate(-50%,-50%);
 }
+.sobre-nazare p{
+    font-size: 18px;
+}
 /* #sobre-video{
     position: absolute;
     z-index: -1;
@@ -62,6 +65,6 @@ body{
         width: 100%;
     }
     .sobre-nazare p{
-        font-size: 0.8rem;
+        font-size: 0.86rem;
     }
 }
