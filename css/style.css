@@ -8,6 +8,10 @@
   font-family: 'Beauty and the Beast';
   src: url('../fonts/Beauty\ and\ the\ Beast\ Sample.ttf');
 }
+@font-face{
+  font-family: 'xilosa';
+  src: url('../fonts/xilosa_.ttf');
+}
 /*NAVBAR*/
 html,body{
   height: 100%;
@@ -26,7 +30,7 @@ header{
   padding: 10px 0;
   position: fixed;
   width: 100%;
-  z-index: 9999;
+  z-index: 99;
 }
 #navbarSupportedContent{
   position: relative;
